@@ -1,0 +1,19 @@
+html {
+    text-align: center center;
+}
+
+.contenedor {
+    background-color: #4472C4;
+}
+
+.content {
+    background-color: #70AD47;
+}
+
+.footer, .logo {
+    background-color: #FFBF00;
+}
+
+.header, .sidebar, .footer-1, .footer-2, .footer-3 {
+    background-color: #A5A5A5;
+}

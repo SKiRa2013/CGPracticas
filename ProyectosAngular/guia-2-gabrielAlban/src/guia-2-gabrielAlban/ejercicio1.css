@@ -1,0 +1,57 @@
+h2 {
+    color: #FF4900;
+    font-size: 2rem;
+}
+
+#p1 {
+    font-size: 1rem;
+    color: #0093FF;
+    font-family: Arial;
+}
+
+#p2 {
+    font-size: 12px;
+    color: #C500FF;
+    font-family: "Nerko One";
+}
+
+a {
+    color: #001BFF;
+    font-style: bold;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #4CAF50;
+}
+
+a:hover {
+    color: #FF6600;
+    text-decoration: underline;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 6px;
+}
+
+th {
+    background-color: #000000;
+    color: #FFFFFF;
+    font-size: 1.5rem;
+}
+
+tr.first, tr.third {
+    background-color: #BEC1C3;
+    color: black;
+    font-size: 1.5rem;
+}
+
+tr.second {
+    background-color: #045795;
+    color: white;
+    font-size: 1.5rem;
+}
